@@ -16,6 +16,14 @@ h2 {
 	padding: 0;
 }
 
+h3 { 
+	font-family: 'Lekton', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;  
+	font-size: 14pt;
+	margin: 0;
+	padding: 0;
+}
+
+
 img { 
 	border: 0px solid white; 
 }
@@ -81,6 +89,13 @@ a.plink:hover {
 	border-top: 1px solid #e0e0e0;
 }
 
+#footer {
+	text-align: center;
+	font-size: 8pt;
+	margin: 4em 0 0 0;
+	color: #aaa;
+}
+
 .menu-item {
 	padding: 0 .5em 0 .5em;
 }
@@ -104,7 +119,7 @@ a.plink:hover {
 }
 
 .subheading {
-	color: #d0d0d0;
+	color: #aaa;
 	font-family: 'Lekton', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 	margin: .2em 0 1em 0;
 }
